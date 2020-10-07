@@ -1,0 +1,4 @@
+requests
+faker
+faker_vehicle
+Flask
