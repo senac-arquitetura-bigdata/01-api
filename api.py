@@ -1,3 +1,4 @@
+import os
 from flask import Flask, jsonify
 from faker import Faker
 from faker_vehicle import VehicleProvider
